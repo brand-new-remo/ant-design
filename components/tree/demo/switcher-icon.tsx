@@ -47,6 +47,12 @@ const treeData: TreeDataNode[] = [
           {
             title: 'leaf',
             key: '0-0-2-1',
+            children: [
+              {
+                title: 'leaf23',
+                key: '0-0-2-1-0',
+              }
+            ]
           },
         ],
       },
